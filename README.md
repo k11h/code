@@ -19,5 +19,7 @@
 
 
 > mana air heavens
+>
 > what is coinvention?
-> seed word passphrase
+>
+>seed word passphrase
